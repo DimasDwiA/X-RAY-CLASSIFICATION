@@ -18,7 +18,7 @@ As an AI enthusiast, I take and collect X-ray data to help and make it easier fo
 12. Google Colab Library Tools
 13. image_dataset_from_directory Library Tools
 ## Honed Skills
-1. Data Augmatation
-2. CNN  (Convolutional Neural Network)
-3. Deep Learning
-4. Transfer Learning
+* Data Augmatation
+* CNN  (Convolutional Neural Network)
+* Deep Learning
+* Transfer Learning
